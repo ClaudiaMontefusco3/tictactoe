@@ -11,7 +11,7 @@ public class ComputerPlayer extends Player {
     public static int MAX_LEVEL=8;
 
     private int level;
-    private Random random; //ddf
+    private Random random; //dd
     
     /**
      * @brief Costruttore.
